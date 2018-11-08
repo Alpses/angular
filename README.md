@@ -1,4 +1,11 @@
 angular
 =======
+<script src="angular.min.js"></script>
 
-所有angular学习过程中的代码
+
+All coding in the progress of angularJS-studying
+
+
+Fork from,thanks for the donate
+
+
